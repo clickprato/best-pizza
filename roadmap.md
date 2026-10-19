@@ -15,5 +15,3 @@
 - [x] Cardápio QR Code para mesas (/cardapio-qr, checkout da mesa, Configuração de Mesas, destaque na comanda).
 - [x] Canhoto de entrega destacável na comanda com toggle em Configurações.
 - [x] Adicionar controles separados para os tamanhos das fontes do canhoto.
-- [x] Mostrar categorias após os nomes dos produtos no modal de cupons e adicionar Selecionar Todos/Nenhum às listas múltiplas.
-- [x] Coletar dados de dispositivo (eventos e pedidos) e aba Dispositivos em Marketing Metrics.
